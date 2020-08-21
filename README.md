@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**Lord-Kanzler/Lord-Kanzler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+====================
+Welcome to my GitHub
+====================
 
-Here are some ideas to get you started:
+I'm a Multi-disciplined Data Scientist interested in projects with purpose. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skilled in Python, R, Machine Learning, visualization, automatization and all things data. A former neuroscientist and maker of fine furniture with a vested interest open-source, parallelization and the restoration of classic motorcycles. 
+
+I also bake Sourdough 🍞 (before it became cool).
+
+Feel free to conenct with me `LinkedIn <https://alexkaiser.dev/>`_
+
+or check out some of my blog posts in my `Portfolio <>`_

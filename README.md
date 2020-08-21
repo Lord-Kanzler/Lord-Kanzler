@@ -1,7 +1,5 @@
 
-====================
-Welcome to my GitHub
-====================
+# Welcome to my GitHub
 
 I'm a Multi-disciplined Data Scientist interested in projects with purpose. 
 
@@ -9,6 +7,6 @@ Skilled in Python, R, Machine Learning, visualization, automatization and all th
 
 I also bake Sourdough 🍞 (before it became cool).
 
-Feel free to conenct with me `LinkedIn <https://alexkaiser.dev/>`_
+Feel free to conenct with me on [LinkedIn](https://alexkaiser.dev/)
 
-or check out some of my blog posts in my `Portfolio <>`_
+or check out some of my blog posts in my [Portfolio](https://alexkaiser.dev/)

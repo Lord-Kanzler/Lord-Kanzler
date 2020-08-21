@@ -7,6 +7,6 @@ Skilled in Python, R, Machine Learning, visualization, automatization and all th
 
 I also bake Sourdough 🍞 (before it became cool).
 
-Feel free to conenct with me on [LinkedIn](https://alexkaiser.dev/)
+Feel free to conenct with me on [LinkedIn](https://www.linkedin.com/in/alex-kaiser-ds/)
 
 or check out some of my blog posts in my [Portfolio](https://alexkaiser.dev/)

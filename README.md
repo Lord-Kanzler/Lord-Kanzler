@@ -10,3 +10,7 @@ I also bake Sourdough 🍞 (before it became cool).
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alex-kaiser-ds/)
 
 or check out some of my blog posts in my [Portfolio](https://alexkaiser.dev/)
+
+All other forms of contacts can be found on my LinkedIn and/or Portfolio.
+
+
